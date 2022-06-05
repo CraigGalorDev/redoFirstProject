@@ -131,7 +131,7 @@ display:inline-block;
     width: 100%;
 }
 .img{
-    background-image: url(/assets/images/universal-classic-monsters-index.jpg);
+    background-image: url(/assets/pictures/universal-classic-monsters-index.jpg);
     background-size:50%;
     background-position: 2px;
     background-repeat: no-repeat;
@@ -139,7 +139,7 @@ display:inline-block;
     width:1200px;
 }
 .lugosi{
-    background-image: url(/assets/images/bela-header.webp);
+    background-image: url(/assets/pictures/bela-header.webp);
     background-size:50%;
     background-position: 2px;
     background-repeat: no-repeat;
@@ -147,7 +147,7 @@ display:inline-block;
     width:1200px;
 }
 .karloff{
-    background-image: url(/assets/images/Boris_Karloff.jpg);
+    background-image: url(/assets/pictures/Boris_Karloff.jpg);
     background-size:50%;
     background-position: 2px;
     background-repeat: no-repeat;
@@ -155,7 +155,7 @@ display:inline-block;
     width:1200px;
 }
 .chaney{
-    background-image: url(/assets/images/Lon\ chaney.jpg);
+    background-image: url(/assets/pictures/Lon\ chaney.jpg);
     background-size:50%;
     background-position: 2px;
     background-repeat: no-repeat;
@@ -166,7 +166,7 @@ display:inline-block;
     margin: 0 0 0 40%;
     height: 80px;
     width: 100px;
-    background-image: url(/assets/images/ush-header-logo-b.webp);
+    background-image: url(/assets/pictures/ush-header-logo-b.webp);
     background-size: contain ;
     background-repeat: no-repeat;
 }
@@ -874,7 +874,7 @@ border: none;
     overflow: hidden;
             }
 #bela-pic1{
-background-image: url(/assets/images/bela-pic1.jpg);
+background-image: url(/assets/pictures/bela-pic1.jpg);
 background-repeat: no-repeat;
 background-size:contain;
 margin: -12% 0 0 0;
@@ -882,14 +882,14 @@ height:265%;
 width:100%;
 }
 #bela-pic2{
-background-image: url(/assets/images/bela-pic2.png);
+background-image: url(/assets/pictures/bela-pic2.png);
 background-size:contain;
 background-repeat: no-repeat;
 height:130%;
 width:110%;
 }
 #bela-pic3{
-    background-image: url(/assets/images/bela-pic3.jpg);
+    background-image: url(/assets/pictures/bela-pic3.jpg);
     background-size:contain;
     background-repeat: no-repeat;
     height:110%;
@@ -907,7 +907,7 @@ width:110%;
     opacity: 0%;
 }
 #boris-pic1{
-    background-image: url(/assets/images/boris-pic2alpha.jpg);
+    background-image: url(/assets/pictures/boris-pic2alpha.jpg);
     background-size:contain;
     float: left;
     background-repeat: no-repeat;
@@ -916,7 +916,7 @@ width:110%;
     width:50%;
 }
 #boris-pic4{
-    background-image: url(/assets/images/boris-pic1.jpg);
+    background-image: url(/assets/pictures/boris-pic1.jpg);
     background-size: contain;
     float: right;
     background-repeat: no-repeat;
@@ -925,7 +925,7 @@ width:110%;
     width:50%;
 }
 #boris-pic2{
-    background-image: url(/assets/images/boris-pic2.jpg);
+    background-image: url(/assets/pictures/boris-pic2.jpg);
     background-size:contain;
     background-repeat: no-repeat;
     margin: -17% 0 0 -2%;
@@ -933,7 +933,7 @@ width:110%;
     width:180%;
 }
 #boris-pic3{
-    background-image: url(/assets/images/boris-pic3.jpg);
+    background-image: url(/assets/pictures/boris-pic3.jpg);
     background-repeat: no-repeat;
     background-size: contain;
     height:102%;
@@ -951,7 +951,7 @@ width:110%;
     opacity: 0%;
 }
 #chaney-pic1{
-    background-image: url(/assets/images/chaney-pic1.jpg);
+    background-image: url(/assets/pictures/chaney-pic1.jpg);
     background-size:contain;
     background-repeat: no-repeat;
     margin: 0 0 0 0;
@@ -960,7 +960,7 @@ width:110%;
     overflow: hidden;
     }
 #chaney-pic2{
-    background-image: url(/assets/images/chaney-pic2.jpg);
+    background-image: url(/assets/pictures/chaney-pic2.jpg);
     background-size:contain;
     background-repeat: no-repeat;
     margin: 0 0 0 0;
@@ -968,7 +968,7 @@ width:110%;
     width:100%;
     }
 #chaney-pic3{
-    background-image: url(/assets/images/chaney-pic3.jpg);
+    background-image: url(/assets/pictures/chaney-pic3.jpg);
     background-repeat: no-repeat;
     background-size: contain;
     height:119%;
@@ -1018,7 +1018,7 @@ width:110%;
 }
 /* this is the form section*/
 .form-img{
-    background-image: url(/assets/images/hhn-logo-Large.png);
+    background-image: url(/assets/pictures/hhn-logo-Large.png);
     background-size:40%;
     background-color: black;
     background-position: 2px;
